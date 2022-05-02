@@ -10,4 +10,4 @@ I have learned a lot of things about Git, GitBash, GitHub and repositories. Work
 
 ## Big thanks to
 
-[tesena s.r.o] (https://www.tesena.com/)
+[tesena](https://academy.tesena.com/)
